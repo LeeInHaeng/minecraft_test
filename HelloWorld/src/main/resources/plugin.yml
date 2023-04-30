@@ -1,0 +1,6 @@
+name: HelloWorld
+version: '${project.version}'
+main: topi.plugin.HelloWorld
+api-version: 1.19
+commands:
+  test:

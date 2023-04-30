@@ -1,0 +1,6 @@
+name: Tablist
+version: '${project.version}'
+main: topi.tablist.Tablist
+api-version: 1.19
+commands:
+  name:

@@ -1,0 +1,6 @@
+name: InventoryPlugin
+version: '${project.version}'
+main: inventoryplugin.inventoryplugin.InventoryPlugin
+api-version: 1.19
+commands:
+  상자:

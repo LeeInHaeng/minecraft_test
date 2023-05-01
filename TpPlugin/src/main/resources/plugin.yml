@@ -1,0 +1,6 @@
+name: TpPlugin
+version: '${project.version}'
+main: tpplugin.tpplugin.TpPlugin
+api-version: 1.19
+commands:
+  텔포:

@@ -1,0 +1,6 @@
+name: SchedulerTest
+version: '${project.version}'
+main: schedulertest.schedulertest.SchedulerTest
+api-version: 1.19
+commands:
+  스케줄러:

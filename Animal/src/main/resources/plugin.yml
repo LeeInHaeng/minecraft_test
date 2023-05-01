@@ -1,0 +1,4 @@
+name: Animal
+version: '${project.version}'
+main: animal.animal.Animal
+api-version: 1.19

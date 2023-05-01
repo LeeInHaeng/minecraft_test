@@ -1,0 +1,4 @@
+name: EventHandlerTest
+version: '${project.version}'
+main: eventhandlertest.eventhandlertest.EventHandlerTest
+api-version: 1.19
